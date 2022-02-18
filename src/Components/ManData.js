@@ -1,5 +1,4 @@
-import deGea from '../Images/De--gea.png';
-import dalot from '../Images/Dalot.png';
+
 
 
  export default [

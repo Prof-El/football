@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from "react";
+import React, {useState} from "react";
 
 import manLogo from "../Images/manLogo.png";
 import atLogo from "../Images/atLogo.png";

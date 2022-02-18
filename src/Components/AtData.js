@@ -1,5 +1,3 @@
-import oblak from "../Images/oblak.png";
-import savic from "../Images/savic.png";
 
 export default [
     {
