@@ -1,5 +1,5 @@
 
-export default [
+const atData = [
     {
         id: "A1",
         name: "Ian Oblak",
@@ -47,3 +47,6 @@ export default [
         name: "Suarez"
     }
 ]
+
+
+export default atData;

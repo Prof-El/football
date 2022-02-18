@@ -1,7 +1,7 @@
 
 
 
- export default [
+ const manData = [
     {
         id: "M1",
         name: 'De gea',
@@ -51,4 +51,4 @@
 ]
 
 
-// export default manData;
+export default manData;

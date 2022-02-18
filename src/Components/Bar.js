@@ -13,7 +13,7 @@ export default function Bar(){
             </div>
             <p>Round of 16 - Leg 1 of 2</p>
             <div>
-                <a href="#">PREDICTION</a>
+                <p id="link">Prediction</p>
             </div>
             
         </div>
